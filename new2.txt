@@ -1,0 +1,21 @@
+<html>
+<head>
+  <title> Applications </title>
+  <meta Charset="utf-8">
+<style> div { line-height:29px } </style>
+</head>
+<body BGcolor="lightgray">
+ <div>
+    <center><h1> Application on Artificial intelligence : </h1>
+    <img src="res2.png" width="450" ; height="200">
+   <p>Artificial intelligence has been used successfully in a wide range of areas including <br>
+expert systems,natural language processing, voice recognition, <br>
+image discrimination and image analysis as well as medical diagnostics,<br>
+ stock trading, automated control, law, scientific discoveries, video games,<br>
+ toys and search engines on the Internet.  <br>
+Often times, when the use of technology expands and is not seen as an artificial intelligence,<br>
+ it is sometimes described as the effect of artificial intelligence. <br>
+It can also be incorporated into artificial life.</p></center>
+</div>
+</body>
+</html>

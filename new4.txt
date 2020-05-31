@@ -1,0 +1,33 @@
+<html>
+<head>
+  <title> The downsides </title>
+  <meta Charset="utf-8">
+<style> div { line-height:29px } </style>
+</head>
+<body BGcolor="lightgray">
+<div>
+<center><h1> The downsides of artificial intelligence </h1></center>
+            <ol>
+                <li> <strong> There is no place for emotions: </strong> all human perceptions of conscience,<br> 
+                      mercy and collective spirit will disappear, meaning that machines can <br>
+                       perform many tasks without there being links with humans, </li>
+                <li> <strong> Unemployment: </strong> A person cannot match the machine in terms of efficiency,<br>
+                     and thus machines will replace humans in various practical fields,
+                         which increases the unemployment rate. </li>
+                <li> <strong> High cost: </strong> Working in this field requires a lot of money both <br>
+                    in the machinery manufacturing processes, programming and repair. </Li>
+                <li> <strong> Data loss: </strong> Despite the tremendous memory that such machines may have, <br>
+                    there will be no correlation between this information when it is stored <br>
+                   and retrieved as humans do, and some damage to the machine can lead to the <br> 
+                       loss of all data stored on it. </li>
+                <li> <strong> Monotony: </strong> These machines cannot go out of the ordinary and create <br>
+                     something new as a person does, so their uses in the scientific and <br>
+                      technical fields remain unhelpful in the arts. </li>
+                <li> <strong> Wrong use: </strong> As many inventions invented by scientists for important purposes,<br>
+                     but when they fell into the wrong hands, they were exploited for wars,<br>
+                      and the exploitation of artificial intelligence for unscientific <br>
+                        purposes and not serving society posed a real threat. </li>
+          </ol>
+<div>
+ </body>
+  </html>

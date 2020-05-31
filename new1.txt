@@ -1,0 +1,23 @@
+<html>
+<head>
+  <title> Definition of artificial intelligence </title>
+  <meta Charset="utf-8">
+<style> div { line-height:29px } </style>
+</head>
+<body BGcolor="lightgray">
+
+<div>
+<h1> Definition of artificial intelligence : </h1>
+<p>Industrial intelligence is a software package and not an electrical device,<br>
+designed to make the machine able to achieve a specific goal <br>
+in a way similar to humans or sometimes beyond the ability of humans.</p>
+<center><img src="res.png" width="450" ; height="200" ></center>
+<center><p>AI consists of a set of different goals and capabilities<br>
+         to include the ability to learn, organize and understand science</P></center>
+   <h3>Examples:</h3>
+      <ul>
+         <li> Understanding sound.</li>
+         <li> Audio and video analysis.</li>
+         <li> Emotional and social interaction.</li>
+      </ul></div>
+</html>

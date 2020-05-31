@@ -1,0 +1,44 @@
+<html>
+<head>
+  <title> Types of Artificial intelligence </title>
+  <meta Charset="utf-8">
+<style> div { line-height:29px } </style>
+</head>
+<body BGcolor="lightgray">
+ <div>
+<h1>Types of Artificial intelligence :</h1>
+
+<p>Artificial Intelligence technology is classified into three categories:<br>
+Narrow Artificial Intelligence (ANI), General Artificial Intelligence (AGI),<br>
+and Superior Artificial Intelligence (ASI).<br></p>
+
+<center><table border="1" width="400">
+       <tr>
+           <td> Artificial Narrow <br>
+                Intelligence (ANI) </td>
+           <td>It refers to artificial intelligence systems that can only perform specific
+               tasks independently and with capabilities that mimic human capabilities. 
+               This means that these systems are limited in capabilities and their capabilities
+                do not go beyond the tasks designed for them. </td>
+      </tr>
+      <tr>  
+          <td> Artificial General Intelligence: </td>
+          <td> It means the ability of artificial intelligence to learn, perceive,
+               understand and act just like a human by simulating human capabilities. 
+                These systems will be able to build a variety of capacities and reach 
+                links and generalizations across several areas, which would reduce much 
+                 of the time needed to train these systems. </td>
+       </tr>
+       <tr>
+            <td> Artificial Superintelligence: </td> 
+            <td> The development of super artificial intelligence is probably the culmination 
+              of research in this field.  Given that AI will be considered, when developed,
+               will be the most capable form of intelligence on Earth,
+              superior AI will be distinguished at all levels thanks to its superior memory,
+                fast data processing and analysis, and decision-making capabilities.</td>
+       
+         </tr>
+</table> </center>
+ </div>
+</body>
+</html>
